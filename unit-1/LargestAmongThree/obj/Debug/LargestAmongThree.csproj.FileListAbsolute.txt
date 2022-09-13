@@ -1,0 +1,8 @@
+C:\Users\thoma\source\repos\unit-1\LargestAmongThree\bin\Debug\LargestAmongThree.exe.config
+C:\Users\thoma\source\repos\unit-1\LargestAmongThree\bin\Debug\LargestAmongThree.exe
+C:\Users\thoma\source\repos\unit-1\LargestAmongThree\bin\Debug\LargestAmongThree.pdb
+C:\Users\thoma\source\repos\unit-1\LargestAmongThree\obj\Debug\LargestAmongThree.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\unit-1\LargestAmongThree\obj\Debug\LargestAmongThree.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\source\repos\unit-1\LargestAmongThree\obj\Debug\LargestAmongThree.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\unit-1\LargestAmongThree\obj\Debug\LargestAmongThree.exe
+C:\Users\thoma\source\repos\unit-1\LargestAmongThree\obj\Debug\LargestAmongThree.pdb

@@ -1,0 +1,8 @@
+C:\Users\thoma\source\repos\unit-1\AreaOfCircle\bin\Debug\AreaOfCircle.exe.config
+C:\Users\thoma\source\repos\unit-1\AreaOfCircle\bin\Debug\AreaOfCircle.exe
+C:\Users\thoma\source\repos\unit-1\AreaOfCircle\bin\Debug\AreaOfCircle.pdb
+C:\Users\thoma\source\repos\unit-1\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\unit-1\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\source\repos\unit-1\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\unit-1\AreaOfCircle\obj\Debug\AreaOfCircle.exe
+C:\Users\thoma\source\repos\unit-1\AreaOfCircle\obj\Debug\AreaOfCircle.pdb

@@ -1,0 +1,8 @@
+C:\Users\thoma\source\repos\unit-1\Swap\bin\Debug\Swap.exe.config
+C:\Users\thoma\source\repos\unit-1\Swap\bin\Debug\Swap.exe
+C:\Users\thoma\source\repos\unit-1\Swap\bin\Debug\Swap.pdb
+C:\Users\thoma\source\repos\unit-1\Swap\obj\Debug\Swap.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\unit-1\Swap\obj\Debug\Swap.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\source\repos\unit-1\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\unit-1\Swap\obj\Debug\Swap.exe
+C:\Users\thoma\source\repos\unit-1\Swap\obj\Debug\Swap.pdb
