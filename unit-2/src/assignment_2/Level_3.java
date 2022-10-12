@@ -70,7 +70,7 @@ class BigDog extends Dog
     }
 }
 
-public class Level_2 {
+public class Level_3 {
 
 	public static void main(String[] args) {
 
